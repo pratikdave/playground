@@ -1,2 +1,3 @@
 # playground
-What it says on the tin
+
+This repository stores what it says on the tin.
